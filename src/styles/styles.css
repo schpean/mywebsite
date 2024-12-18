@@ -1,0 +1,5 @@
+
+/* Optional: styling for the Three.js canvas (renderer) */
+canvas {
+    display: block;
+}
