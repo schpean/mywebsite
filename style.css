@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000033; /* Dark blue background */
+    color: #ffffff; /* White text */
+    font-family: 'Press Start 2P', cursive; /* Pixelated font */
+}
+
+.loading-screen {
+    text-align: center;
+}
+
+.loading-text {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px #000000; /* Shadow for retro effect */
+}
+
+.loading-bar-container {
+    width: 80%;
+    height: 30px
