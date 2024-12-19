@@ -1,4 +1,10 @@
 
+body {
+    margin: 0;
+    overflow: hidden;
+    background: black;
+}
+
 /* Optional: styling for the Three.js canvas (renderer) */
 canvas {
     display: block;
